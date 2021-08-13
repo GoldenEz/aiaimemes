@@ -1,0 +1,58 @@
+.img-memes{
+    margin-left: 100px;       // centralizar imagem
+    margin-top: 100px !important;
+}
+
+ .teste{
+     font-size: 40px;
+     text-align: center;
+     color: rgb(0, 0, 0);
+ }
+
+ .post{
+    width:  700px; 
+    height: auto; 
+    background-color: rgba(255, 255, 255, 0.815);
+    margin-left: 300px; 
+    padding: 8px;
+ }
+
+ #cor{
+     color: red;
+ }
+ 
+ .centralizar{
+     text-align: center;
+     color: white;
+     font-size: 20px;
+    margin-left: 600px !important; 
+ }
+
+ #nome{
+     float:right;
+     font-size: 30px;
+     margin-top: 80px; //margem vertical
+ }
+
+ .sobre {
+     text-align: center;
+     margin-left: 400px;
+     
+    
+ }
+
+ .sobre a{
+     text-decoration:none;
+     color: white;
+     font-size: 50px;
+ }
+
+#aiaimemes{
+    margin-right:500px;
+    float:right;
+}
+
+.logo{
+    width: 459ppx; 
+    height: 219px;
+}
